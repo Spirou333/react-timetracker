@@ -15,3 +15,4 @@ The application is still rather small and will be expanded with more features st
 
 ## Planned Improvements
 * Using moment.js for advanced date and time handling
+* Spread responsibilities and tasks more over different components

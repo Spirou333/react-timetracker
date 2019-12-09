@@ -3,6 +3,7 @@ A simple impersistent react application that can be used to track time over the 
 The application is still rather small and will be expanded with more features step by step.
 
 ## Planned Features
+* Clear inputfields after submit
 * Start and stop a timer for entries
 * Switch between "Timer" and "Add Entry"
 * Adding a graphical timepicker

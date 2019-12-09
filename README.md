@@ -1,2 +1,11 @@
 # react-timetracker
-A simple impersistent reactapplication that can be used to track over the day
+A simple impersistent react application that can be used to track time over the day.
+The application is still rather small and will be expanded with more features step by step.
+
+## Planned Features
+* Start and stop a timer for entries
+* Switch between "Timer" and "Add Entry"
+* Duplicate entry recognition
+* Editing existing entries
+* Export entries as JSON
+* Entering dates to the timeentries

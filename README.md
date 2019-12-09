@@ -9,3 +9,6 @@ The application is still rather small and will be expanded with more features st
 * Editing existing entries
 * Export entries as JSON
 * Entering dates to the timeentries
+
+## Planned Improvements
+* Using moment.js for advanced date and time handling

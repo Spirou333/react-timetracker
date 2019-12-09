@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+}
+.app h1 {
+  font-weight: 700;
+  font-family: 'Roboto', Arial, sans-serif;
+  margin-bottom: 20px;
+  font-size: 2.5rem;
+}
+.timeinput {
+  width: 100px;
+}
+.app input {
+  margin-right: 10px
+}
+.errormessage {
+  color: red;
+  font-style: italic;
+}
+.app form{
+  margin-bottom: 50px
+}
+.entrylist .timeentry {
+  background-color: #f3f3f3;
+  width:100%;
+  display: flex;
+  padding: 5px;
+  box-sizing: border-box;
+}
+.entrylist .timeentry:nth-child(even) {
+  background-color: #e8e8e8;
+}
+.timeentry .title {
+  font-weight: 700;
+  font-size: 16px;
+  width: 30%;
+}
+.timeentry .duration {
+  width: 15%;
+}
+.timeentry .time {
+  width: 45%;
+  text-align: right;
+  padding-right: 15px
+}
+.timeentry .remove {
+  width: 10%;
+  text-align: right;
+}
+.timeentry .remove button {
+  border: none;
+  background-color: #ff4646;
+  color: white;
+}

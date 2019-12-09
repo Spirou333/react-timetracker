@@ -5,10 +5,12 @@ The application is still rather small and will be expanded with more features st
 ## Planned Features
 * Start and stop a timer for entries
 * Switch between "Timer" and "Add Entry"
+* Adding a graphical timepicker
 * Duplicate entry recognition
 * Editing existing entries
 * Export entries as JSON
 * Entering dates to the timeentries
+* Adding a datepicker
 
 ## Planned Improvements
 * Using moment.js for advanced date and time handling
